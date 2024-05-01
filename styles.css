@@ -1,0 +1,237 @@
+.65_2 { 
+	overflow:hidden;
+}
+.e65_2 { 
+	width:1104px;
+	height:773px;
+	position:absolute;
+}
+.e1_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1104px;
+	height:773px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_23 { 
+	width:1104px;
+	height:773px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1104px;
+	height:773px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.text-qa { 
+	color:rgba(200.81250607967377, 13.387499582022429, 13.387499582022429, 1);
+	width:519px;
+	height:206px;
+	position:absolute;
+	left:128px;
+	top:128px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.text-qaa { 
+	color:rgba(0, 0, 0, 1);
+	width:622px;
+	height:236px;
+	position:absolute;
+	left:122px;
+	top:359px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e1_21 { 
+	width:220px;
+	height:59px;
+	position:absolute;
+	left:122px;
+	top:646px;
+}
+.e1_19 { 
+	background-color:rgba(201.00000321865082, 13.000000175088644, 13.000000175088644, 1);
+	width:220px;
+	height:59px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.btn-qa { 
+	color:rgba(255, 255, 255, 1);
+	width:197px;
+	height:24px;
+	position:absolute;
+	left:12px;
+	top:18px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e16_6 { 
+	width:324px;
+	height:323px;
+	position:absolute;
+	left:731px;
+	top:169px;
+	background-image:url(images/monik_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_6 { 
+	width:1104px;
+	height:88px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_4 { 
+	background-color:rgba(187.00000405311584, 187.00000405311584, 187.00000405311584, 1);
+	width:1104px;
+	height:50px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.header-glavnaya { 
+	color:rgba(0, 0, 0, 1);
+	width:105px;
+	height:24px;
+	position:absolute;
+	left:335px;
+	top:60px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+.header-yslygi { 
+	color:rgba(0, 0, 0, 1);
+	width:90px;
+	height:22px;
+	position:absolute;
+	left:470px;
+	top:60px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+.header-komanda { 
+	color:rgba(0, 0, 0, 1);
+	width:112px;
+	height:28px;
+	position:absolute;
+	left:590px;
+	top:60px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+.bytex_logo { 
+	width:199px;
+	height:41px;
+	position:absolute;
+	left:23px;
+	top:5px;
+	background-image:url(images/bytex_logo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.header-ru { 
+	color:rgba(0, 0, 0, 1);
+	width:44px;
+	height:25px;
+	position:absolute;
+	left:1024px;
+	top:12px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.header-en { 
+	color:rgba(0, 0, 0, 1);
+	width:40px;
+	height:33px;
+	position:absolute;
+	left:1060px;
+	top:12px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.header-svyas_ground { 
+	width:192px;
+	height:33px;
+	position:absolute;
+	left:812px;
+	top:8px;
+}
+.header-svyas-back { 
+	background-color:rgba(201.00000321865082, 13.000000175088644, 13.000000175088644, 1);
+	width:192px;
+	height:33px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:35px;
+	border-top-right-radius:35px;
+	border-bottom-left-radius:35px;
+	border-bottom-right-radius:35px;
+}
+.header-svyas { 
+	color:rgba(255, 255, 255, 1);
+	width:145.58241271972656px;
+	height:17px;
+	position:absolute;
+	left:27.428571701049805px;
+	top:7px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.header_number { 
+	color:rgba(0, 0, 0, 1);
+	width:221px;
+	height:24px;
+	position:absolute;
+	left:569px;
+	top:13px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.button {
+
+	background: transparent;
+	border: none !important;
+  }
+  .button:active { 
+	transform: scale(0.98); 
+} 
+a { 
+	text-decoration: none; 
+	color: black;
+  
+  }
